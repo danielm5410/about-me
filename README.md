@@ -10,7 +10,7 @@
 #### Email: danielm5410@hstat.org
 
 
-### School: HSTAT (Highschool of Telecommunications Arts amd Technology)
+### School: Highschool of Telecommunications Arts amd Technology (HSTAT)
 
 #### Bio: Im a Software Engineer Student at HSTAT
 
