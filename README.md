@@ -14,6 +14,8 @@
 
 #### Bio: Im a Software Engineer Student at HSTAT
 
+### Schedule
+
 1. ELA
 2. Math
 3. Lunch
