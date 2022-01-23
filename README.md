@@ -17,16 +17,23 @@
 #### Bio: Im a Software Engineer Student at HSTAT
 
 
-### _Schedule_
+### _Schedule for fall semester_
 
 
 1. ELA
-2. Math
+
+2. Math  
+
+
 3. Lunch
 4. **SEP 10**
+* Room 210
+    * 2nd floor
 5. Chemistry
 6. Spanish
-7. Global History
+7. **Global History**
+* Room 432
+   * 4th floor
 8. Gym
 
 
@@ -36,7 +43,13 @@
 - Good teachers
 - Good learning enviroment
 - Good staff
-- overall really good school
+
+
+
+I think overall this school
+
+
+is good
 
 
 
