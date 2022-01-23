@@ -14,7 +14,7 @@
 ### School: [Highschool of Telecommunications Arts amd Technology (HSTAT)](https://www.hstat.org)
 
 
-#### Bio: Im a Software Engineer Student at HSTAT
+#### Bio: I'm a Software Engineer Student at HSTAT
 
 
 ### _Schedule for fall semester_
@@ -46,10 +46,12 @@
 
 
 
+
 I think overall this school
 
 
 is good
+
 
 
 
